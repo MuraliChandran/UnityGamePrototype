@@ -5,8 +5,6 @@ using UnityEngine;
 public class WallCollision : MonoBehaviour
 {
 
-    public GameObject Enemy;
-    private EnemyMovement enemyMovement;
     // Use this for initialization
     void Start()
     {

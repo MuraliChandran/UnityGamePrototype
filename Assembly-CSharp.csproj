@@ -63,7 +63,6 @@
   <ItemGroup>
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\BulletCollision.cs" />
-    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\PlayerBulletCollision.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
