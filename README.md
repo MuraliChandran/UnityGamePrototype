@@ -1,2 +1,2 @@
 # UnityGamePrototype
-![](prototype.gif)
+![](Prototype.gif)
